@@ -2,7 +2,7 @@
 
 ## これは何か
 LINEメッセージからBittrexの取引を行うためのソースコードです。
-
+>[【Qiita】海外の仮想通貨取引所が使いにくいので、LINEで話せる美少女コンシェルジュを作る](https://qiita.com/speedkingg/items/bef7efc690c079754281)
 
 ## 動作環境
 - aws Lamda(python 2.7)
